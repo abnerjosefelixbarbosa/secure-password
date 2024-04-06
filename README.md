@@ -11,7 +11,6 @@
 - Java 17.
 - Spring boot.
 - MVC.
-- SOLID.
 - Lombok.
 - Swegger 3.
 
