@@ -2,7 +2,7 @@
 
 ## About
 
-- This project is a resolution of the backend challenge promoted by repository: https://github.com/AmeDigital/challenge-back-end-hit.
+- This project is a resolution of the backend challenge promoted by repository: https://github.com/abnerjosefelixbarbosa/secure-password.git.
 
 # Project resource
 
@@ -19,7 +19,7 @@
 
 ```bash
 # clone repository
-git clone https://github.com/abnerjosefelixbarbosa/challenge-back-end-hit.git
+git clone https://github.com/abnerjosefelixbarbosa/secure-password.git
 ```
 
 # Author
